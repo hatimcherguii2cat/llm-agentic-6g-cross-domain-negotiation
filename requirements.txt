@@ -1,0 +1,6 @@
+google-generativeai
+numpy
+matplotlib
+scipy
+protobuf
+proto-plus
