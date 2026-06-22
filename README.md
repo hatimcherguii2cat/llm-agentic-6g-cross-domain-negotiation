@@ -1,23 +1,23 @@
 # LLM-powered Agentic 6G Cross-Domain Negotiation
 
 This project simulates an A2A-like negotiation between two LLM-powered agents, a RAN (Energy Saving) Agent and an Edge (Latency Assurance) Agent, to reconcile their conflicting goals. They use a small-scale digital twin (DT) to validate their proposals/counter-proposals before sending them to the peer agent. The simulation evaluates different strategies, including using a collective memory with and without debiasing mechanisms.
-
-<img width="450" height="350" alt="use_case" src="https://github.com/user-attachments/assets/78c104a6-21ec-4d3e-87be-c90f93d34031" />
-<img width="1490" height="782" alt="image" src="https://github.com/user-attachments/assets/79e149ae-cb6c-4a21-a467-c29b90fc719a" />
+i
 
 
 ## Citation 
 If you use this code or any (modified) part of it, please cite it as: 
 ```bibtex
-@misc{chergui2025tutorialcognitivebiasesagentic,
-      title={A Tutorial on Cognitive Biases in Agentic AI-Driven 6G Autonomous Networks}, 
-      author={Hatim Chergui and Farhad Rezazadeh and Merouane Debbah and Christos Verikoukis},
-      year={2025},
-      eprint={2510.19973},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI},
-      url={https://arxiv.org/abs/2510.19973}, 
-}
+@ARTICLE{11517469,
+  author={Chergui, Hatim and Rezazadeh, Farhad and Debbah, Merouane and Verikoukis, Christos},
+  journal={IEEE Open Journal of the Communications Society}, 
+  title={A Tutorial on Cognitive Biases in Agentic AI-Driven 6G Autonomous Networks}, 
+  year={2026},
+  volume={7},
+  number={},
+  pages={5214-5240},
+  keywords={Memory;Modeling;Cognition;Cognitive systems;Radio access networks;Regional area networks;Large language models;Planning;Tools;Proposals;6G;agentic AI;bias;network automation},
+  doi={10.1109/OJCOMS.2026.3692946}}
+
 ```
 
 ## Project Structure
